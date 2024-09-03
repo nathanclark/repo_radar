@@ -2,6 +2,9 @@
 
 RepoRadar is a powerful CLI tool designed to help developers scan their GitHub repositories for essential components like README files and test suites. It also offers the capability to generate README files using AI, streamlining the process of maintaining well-documented projects.
 
+![RepoRadar Scan](https://github.com/user-attachments/assets/ebe4b10e-3720-4fbe-aded-e570c317daed)
+![RepoRadar Summary](https://github.com/user-attachments/assets/e371153c-428f-4f82-9f96-eaa68e32d2c1)
+
 ## Features
 
 - 🔍 Scan GitHub repositories for missing README files and test suites
