@@ -17,7 +17,7 @@ RepoRadar is a powerful CLI tool designed to help developers scan their GitHub r
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/repo-radar.git
+   git clone https://github.com/nathanclark/repo-radar.git
    cd repo-radar
    ```
 
